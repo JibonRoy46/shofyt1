@@ -1,20 +1,27 @@
+E-commerce
+
+This is as E-commerce Project
+
+Description: This Next.js E-commerce Project is a scalable, high-performance online store built with the modern React framework, offering fast page loads, SEO optimization, and a seamless user experience. The platform features dynamic product listings, detailed product pages, a shopping cart, and secure checkout with integrated payment gateways like Stripe.
+Key features include:
+🔗 Server-Side Rendering (SSR) and Static Site Generation (SSG) for optimal performance.
+🔗 User authentication with NextAuth.js.
+🔗 Headless CMS for product management.
+🔗 Responsive design with PWA support for mobile users.
+🔗 Internationalization for multiple languages and currencies.
+Deployed on Vercel for global scalability, the platform also includes advanced search, filtering, and analytics integration to track sales and user behavior.
+
+Technology: Next.js, NextAuth, Stripe, Tailwind CSS,TypeScripe, React,js, Firebase, Git & Github
+
+
+LiveLind=
+
+
+
+
 # Ecommerce Website using Nextjs, Tailwindcss, Redux-Toolkit, Next-Auth, Stripejs.
 
 <img width="1280" alt="ecommerce_website_using_nextjs_tailwindcss_redux_toolkit_stripejs" src="https://github.com/user-attachments/assets/72b8bbb1-4d57-4047-abc4-cd7bc9c32794">
-
-## Complete resources for this project:
-🔗 Youtube link: https://youtu.be/-B4ccv5ddr4
-
-🔗 GitHub Repository: https://github.com/noorjsdivs/shofy_yt
-
-🔗 GitHub Clone link: https://github.com/noorjsdivs/shofy_yt.git
-
-🔗 Auth.js Documentation: https://authjs.dev/
-
-🔗 Stripe.js Documentation: https://stripe.com/
-
-🔗 Live Website: https://shofy.reactbd.com/
-
 
 ## Getting Started
 
@@ -24,7 +31,6 @@ To begin working on this project:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   https://github.com/noorjsdivs/shofy_yt.git
    ```
    
 Install Dependencies:
